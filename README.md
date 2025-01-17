@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Israel Majekodunmi`
+- **CCID:** `1758341`
 
 ## References and Resources
 
